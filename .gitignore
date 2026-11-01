@@ -1,0 +1,8 @@
+# Personal journal profiles stay local
+profile.md
+profile-*.md
+perfil.md
+perfil-*.md
+
+.DS_Store
+!skills/reflective-journal/references/profile-template.md
